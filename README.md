@@ -1,5 +1,5 @@
 # GoogleTrendsCrawler
-![image](https://github.com/Jonhson1997/GoogleTrendsCrawler/blob/master/pic.jpg)
+![image](https://github.com/Jonhson1997/GoogleTrendsCrawler/blob/master/shortcut.jpg)
 針對GoogleTrends做爬蟲蒐集全球範圍當下最熱門的關鍵字資訊的網站
 
 進入頁面時會偵測是否有儲存資訊可供查詢 若無將立刻執行爬蟲撈取最新資訊
